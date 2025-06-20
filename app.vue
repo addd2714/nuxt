@@ -17,3 +17,11 @@ useSeoMeta({
   <!-- 页面路由 -->
   <NuxtPage />
 </template>
+
+
+<style>
+:root {
+  /* css 变量设置组件库主题 */
+  --van-primary-color: #FB7299 !important; /* 主要颜色 */
+}
+</style>
