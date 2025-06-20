@@ -1,3 +1,12 @@
+<script setup lang="ts">
+useSeoMeta({
+  title: '哔哩哔哩',
+  description: '官方',   // 页面描述
+  keywords: 'bilibili,哔哩哔哩,视频', // 页面关键词
+})
+
+</script>
+
 <template>
   <!-- 基于文件的路由系统 -->
 
