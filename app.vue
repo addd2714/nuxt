@@ -3,7 +3,7 @@ useSeoMeta({
   title: '哔哩哔哩',
   description: '官方',   // 页面描述
   keywords: 'bilibili,哔哩哔哩,视频', // 页面关键词
-  // referrer: 'no-referrer', // 设置页面的 referrer 策略
+  referrer: 'no-referrer', // 设置页面的 referrer 策略
 })
 
 </script>
